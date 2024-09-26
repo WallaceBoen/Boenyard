@@ -19,4 +19,4 @@ My name is Adam Rich. This is my place to post projects, interests, and progress
 
 ## Azure RDP
 
-I've built and tested an Azure based system against RDP attack. I will include a link/pictures shortly!
+I've built and tested an Azure based system against RDP attacks. I will include a link/pictures shortly!
